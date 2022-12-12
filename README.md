@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @SDR69250
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning advanced mathematics and beginning to learn Python to get ready for a 9 month online Data Scientist program
-- 💞️ I’m looking to collaborate on small Data Science projects... baby steps :-)
-- 📫 How to reach me sebastienderosa@hotmail.com or +33 (0)6 02 06 74 14
+- 👋 Hi, I am @SDR69250
+- 👀 I am an experimented business and financial controller looking forward to branch out to data science and machine learning
+- 🌱 I have been learning advanced mathematics and Python during a 9 month online Data Scientist program
+- ✨ During my last experience as Business Intelligence officer I created various reports, apps and contents using Cognos, Jedox, SSRS, SQL, IBM DB2 datawarehouse
+- 💞️ I am now looking forward to collaborate on Data Science projects
+- 📫 You can reach me at sebastienderosa@hotmail.com or +33 (0)6 02 06 74 14
 
 <!---
 SDR69250/SDR69250 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
