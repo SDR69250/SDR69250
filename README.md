@@ -4,6 +4,9 @@
 - ✨ During my last experience as Business Intelligence officer I created various reports, apps and contents using Cognos, Jedox, SSRS, SQL, IBM DB2 datawarehouse
 - 💞️ I am now looking forward to collaborate on Data Science projects
 - 📫 You can reach me at sebastienderosa@hotmail.com or +33 (0)6 02 06 74 14
+- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+- <div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sebastien-de-rosa-profile" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/sebastien-de-rosa-profile/fr?trk=profile-badge">Sébastien DE ROSA</a></div>
+              
 
 <!---
 SDR69250/SDR69250 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
